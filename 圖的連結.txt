@@ -1,0 +1,67 @@
+W2 https://codepen.io/tinahopo/pen/vYmyLME
+14:30~16:00、17:00~34、19:00~20:04、21:30~23:10、14:05~15:37
+
+     1. background 背景處理
+    2. 理解 inline、block、Flex 的使用時機
+    3. 了解 Flex 排版技術 
+關卡攻略提示
+
+    background-cover 設計方式
+    img 標籤 與 background-image 的使用上差異
+
+banner：https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/banner.png
+
+behance：
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/behance.svg
+
+facebook
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/facebook.svg
+
+instagram
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/instagram.svg
+
+youtube
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/youtube.svg
+
+
+
+photo
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/photo.png
+
+brand_img1
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/brand_img1.png
+
+brand_img2
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/brand_img2.png
+
+brand_img3
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/brand_img3.png
+
+
+
+work_img1
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/work_img1.png
+
+work_img2
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/work_img2.png
+
+work_img3
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/work_img3.png
+
+work_img4
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/work_img4.png
+
+work_img5
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/work_img5.png
+
+work_img6
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/work_img6.png
+
+work_img7
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/work_img7.png
+
+work_img8
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/work_img8.png
+
+
+

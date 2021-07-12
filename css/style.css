@@ -1,0 +1,312 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+  font-size: 16px;
+}
+body a {
+  text-decoration: none;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+body {
+  font-size: 24px;
+  line-height: 36px;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+section {
+  margin-bottom: 56px;
+}
+.header {
+    height: 958px;
+  background-image: url(../img/banner.png);
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+}
+.headerContent {
+  width: 306px;
+  margin: 0 auto;
+  padding-top: 308px;
+}
+.headerContent span {
+  line-height: 42px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-size: 80px;
+  line-height: 106px;
+  margin-bottom: 32px;
+}
+.headerContent p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
+.aboutMe,
+.myBrand,
+.otherWorks,
+footer {
+  text-align: center;
+}
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 84px;
+}
+.social_icon {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+.aboutMe {
+  /* width: 412px; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.aboutMe h2 {
+  margin-bottom: 40px;
+}
+.aboutMe img {
+  width: 384px;
+  display: block;
+  margin-bottom: 20px;
+}
+.profile{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.me {
+  line-height: 42px;
+  margin-bottom: 4px;
+}
+.bir {
+  line-height: 42px;
+  margin-bottom: 8px;
+}
+.edu {
+  margin-bottom: 24px;
+}
+.exprience {
+  width: 384px;
+  padding-top: 28px;
+  border-top: 1px solid #000;
+}
+.exprience span {
+  margin-right: 16px;
+  color: #891818;
+}
+.myBrand {
+  background: #000;
+  color: #fff;
+  padding-top: 56px;
+  padding-bottom: 120px;
+}
+.myBrand p,.otherWorks p,footer{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+.slogan {
+  line-height: 42px;
+  margin-bottom: 32px;
+}
+.intro {
+  font-size: 20px;
+  line-height: 30px;
+  margin-bottom: 68px;
+}
+.product {
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.product li {
+  /* margin: 0 auto;   */
+  margin-bottom: 40px;
+}
+.mr_24 {
+  margin-right: 24px;
+}
+.otherWorks p {
+  font-size: 20px;
+  line-height: 30px;
+  margin-bottom: 56px;
+}
+.workList {
+  margin: 0 auto;
+  width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-bottom: 144px;
+}
+.workList p {
+  font-size: 20px;
+  line-height: 42px;
+}
+footer {
+  background: #000;
+  color: #fff;
+  padding: 64px 0;
+}
+footer h2 {
+  margin-bottom: 16px;
+}
+.mb_16{
+    margin-bottom: 16px;
+}
+footer a {
+  color: #fff;
+}
+footer a:hover {
+  color: #34e2bf;
+}
